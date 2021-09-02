@@ -1,0 +1,4 @@
+pi=3.14
+r=float(input("value of radius:"))
+area=pi*r*r
+print("area od a circlr:",area);
